@@ -1,7 +1,7 @@
 # Olá, me chamo Douglas! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-⚡ Profissional com mais de 10 anos de experiência da área de tecnologia
+⚡ Profissional com mais de 15 anos de experiência da área de tecnologia
 
 🧡 Atualmente estou trabalhando na Pixeon
 
