@@ -15,3 +15,17 @@
 <a href="https://github.com/douglasfabricio">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasfabricio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+  
+ ## Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="90" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg" width="50" height="50"/>
+          
+          
+          
+
+          
